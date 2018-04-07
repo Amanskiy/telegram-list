@@ -435,6 +435,7 @@
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
 * [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
 * [Feathers.js](https://t.me/featherjs) — Сообщество Feathers.js
+* [Phalcon & Volt](https://t.me/pandv) — Группа для разработчиков на Phalcon и Volt
 
 [(Назад к меню)](#Меню)
 
